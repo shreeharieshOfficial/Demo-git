@@ -4,4 +4,4 @@ def demo(num):
 
 demo(10)
 
-print("lavadee")
+print("Hello amza aryan mane ali ji ")
