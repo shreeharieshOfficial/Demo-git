@@ -3,3 +3,5 @@ def demo(num):
         print(x)
 
 demo(10)
+
+print("lavadee")
