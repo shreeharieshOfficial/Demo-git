@@ -1,8 +1,17 @@
 print("Hello World")
 
 
-def case(a, b):
-    c = a+b
+def evidence(a, b):
+    c = a - b
     return c
 
-print(case(1,2))
+
+print(evidence(20, 10))
+
+
+def case(a, b):
+    c = a + b
+    return c
+
+
+print(case(1, 2))
